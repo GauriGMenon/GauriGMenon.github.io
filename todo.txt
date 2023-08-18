@@ -1,0 +1,3 @@
+- Carousel style Change
+- Multiple images in a single picture
+- PCA etc analysis methods to be added

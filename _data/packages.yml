@@ -1,0 +1,35 @@
+- name: Numpy
+  percentage: 80
+  color: danger
+  
+- name: VTK
+  percentage: 80
+  color: warning
+
+- name: Pandas
+  percentage: 80
+  color: info
+
+- name: Matplotlib
+  percentage: 80
+  color: success
+
+- name: Plotly
+  percentage: 80
+  color: primary
+
+- name: Streamlit
+  percentage: 80
+  color: secondary
+
+- name: SciPy
+  percentage: 80
+  color: danger
+
+- name: Scikit-learn
+  percentage: 80
+  color: warning
+
+- name: Seaborn
+  percentage: 80
+  color: info
