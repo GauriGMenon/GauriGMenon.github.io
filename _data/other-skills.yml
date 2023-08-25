@@ -1,5 +1,5 @@
 - name: Tableau
-  percentage: 95
+  percentage: 100
   color: info
 
 - name: PowerBI
@@ -10,14 +10,34 @@
   percentage: 90
   color: danger
 
-- name: Google Colab
-  percentage: 95
-  color: dark
+# - name: Google Colab
+#   percentage: 95
+#   color: 
 
-- name: Latex
-  percentage: 90
-  color: success
+# - name: Latex
+#   percentage: 90
+#   color: success
 
 - name: Paraview
   percentage: 80
   color: primary 
+
+- name: Canva
+  percentage: 90
+  color: secondary
+
+- name: Gephi
+  percentage: 90
+  color: success
+
+- name: AWS
+  percentage: 50
+  color: primary
+
+- name: SAS
+  percentage: 70
+  color: danger
+
+- name: Apache Spark
+  percentage: 70
+  color: warning

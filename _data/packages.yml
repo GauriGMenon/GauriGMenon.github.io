@@ -1,35 +1,51 @@
-- name: Numpy
-  percentage: 80
-  color: danger
-  
-- name: VTK
-  percentage: 80
-  color: warning
-
-- name: Pandas
-  percentage: 80
-  color: info
-
-- name: Matplotlib
-  percentage: 80
-  color: success
-
-- name: Plotly
-  percentage: 80
+- name: Keras
+  percentage: 90
   color: primary
 
-- name: Streamlit
+- name: TensorFlow
   percentage: 80
   color: secondary
 
-- name: SciPy
+- name: PyTorch
+  percentage: 70
+  color: success
+
+- name: OpenCV
   percentage: 80
+  color: success
+
+- name: SciPy
+  percentage: 90
   color: danger
 
 - name: Scikit-learn
-  percentage: 80
+  percentage: 90
   color: warning
 
 - name: Seaborn
-  percentage: 80
+  percentage: 90
   color: info
+
+- name: Plotly
+  percentage: 100
+  color: primary
+
+- name: Streamlit
+  percentage: 70
+  color: secondary
+
+- name: Matplotlib
+  percentage: 100
+  color: success
+
+# - name: Numpy
+#   percentage: 100
+#   color: danger
+  
+# - name: VTK
+#   percentage: 60
+#   color: warning
+
+# - name: Pandas
+#   percentage: 100
+#   color: info

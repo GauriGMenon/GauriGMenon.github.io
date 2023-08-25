@@ -14,10 +14,26 @@
   percentage: 70
   color: success
 
-- name: C++
+- name: C++/C
   percentage: 80
   color:
 
-- name: C
-  percentage: 90
-  color: secondary
+# - name: C
+#   percentage: 90
+#   color: secondary
+
+- name: Bash
+  percentage: 70
+  color: success
+
+- name: HTML/CSS
+  percentage: 70
+  color: primary
+
+# - name: CSS
+#   percentage: 60
+#   color: danger
+
+- name: PHP
+  percentage: 60
+  color: warning
