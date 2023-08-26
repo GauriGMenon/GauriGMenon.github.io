@@ -1,9 +1,9 @@
 ---
 name: App Performance Analysis(Apple Store)
-tools: [Support, Author, VVG]
+tools: [SQL]
 image:
 description: This is my self project using SQL
-# external_url: https://github.com/YoussefRaafatNasry
+external_url: https://github.com/GauriGMenon/AppPerformance_AnalysisSQL
 ---
 
 # The Movies Project
