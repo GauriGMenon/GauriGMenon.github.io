@@ -2,7 +2,8 @@
 name: Credit Card Fraud Classification
 tools: []
 image: 
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: This is my data analytics project on Credit Card Fraud Classification
+external_url: https://github.com/GauriGMenon/CreditCardFraud_Classification
 ---
 
 # The Movies Project
