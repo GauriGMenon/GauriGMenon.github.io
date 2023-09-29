@@ -6,9 +6,9 @@
   percentage: 80
   color: secondary
 
-- name: PyTorch
-  percentage: 70
-  color: success
+# - name: PyTorch
+#   percentage: 70
+#   color: success
 
 - name: OpenCV
   percentage: 80

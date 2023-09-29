@@ -1,23 +1,24 @@
+- title: Big Data Analyst Research Assistant, CareCadet Inc
+  from: Sept 2023
+  to: Present
+  description: Worked with MongoDB and Apache Spark on a US Medical Insurance database to draw insights about medicare vs commercial pricing <br> Queried and compared geographically proximal insurance providers and medical facilities as part of a Clinical Decision Support System for enhanced insurance and facility recommendation
+
 - title: Computer Vision Intern, Lenek Technologies
   from: Sept 2023
   to: Present
-  description: Contributed in the development of a deep learning pipeline for X-ray image preprocessing and disease diagnosis.
+  description: Leveraged Computer Vision techniques for medical imaging, primarily X-ray analysis of abnormalities. <br> Developed a CNN architecture for respiratory condition classification with optimized hyperparameters. <br> Utilised Batch Normalization and Dropout to prevent overfitting, with adaptive learning rate scheduling.
+
+- title: Founder and Overall Coordinator, BioSoc IIT Kanpur
+  from: May 2023
+  to: Present
+  description: Founded a 200+ students dynamic bio-engineering community, working on cutting-edge medical solutions. <br> Collaborated with Bio-pharmaceutical, BioTech and Healthcare industries for workshops and internships.<br>Provided 10+ students opportunity to work with Gangwal Medical School, MFCEM, and leading researchers. <br>Organised major department events, including BSBE Day, with 500+ students, Bio-faculty and professionals
 
 - title: Project Associate, CCL IITGN
   from: Oct 2022
   to: Dec 2022
   description: Drove television-data-based initial ideation of a STEM show for Doordarshan (1M+ viewership).<br>Improved attendance at KGBV girls' school, UP(50k+ students) by structuring science courses in Hindi.<br>Optimized the CCL website UI/UX to enhance outreach with students, teachers and institutions.
 
-- title: Btech , IIT Kanpur 
+- title: BTech IIT Kanpur 
   from: 2020
   to: Present
-  description: Founder and Overall Coordinator of BioSoc, IIT Kanpur (200+ students involved). <br>Career Development Mentor, BSBE Department IIT Kanpur (mentored 100+ students).
-
-# - title: Software Engineer, Google, UK
-#   from: 2018
-#   to: present
-#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-#                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-#                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-#                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description:
